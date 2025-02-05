@@ -19,7 +19,7 @@
 | Projet | Description | Technologies |
 |--------|------------|--------------|
 | [Flappy Bird Unity](https://github.com/MaelCarrie/flappy-bird) 🎮 | Remake du célèbre jeu Flappy Bird avec Unity 6 | Unity, C# |
-| [Portfolio Web](https://github.com/MaelCarrie/) 🌍 | Mon site personnel en React & TailwindCSS | React, Tailwind, Flowbite |
+| [Portfolio Web](https://www.maelcarrie.fr/) 🌍 | Mon site personnel en React & TailwindCSS | React, Tailwind, Flowbite |
 
 ---
 
