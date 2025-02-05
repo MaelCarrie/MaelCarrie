@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Maël Carrié | Fullstack Developer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&lines=Développeur+Fullstack;Étudiant+en+BUT+Informatique;Alternant+chez+INEO+SCLE+Ferroviaire;Passionné+par+le+développement" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&lines=Développeur+Fullstack;Étudiant+en+BUT+Informatique;Passionné+par+le+développement" />
 </p>
 
 ---
